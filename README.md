@@ -7,7 +7,6 @@ I'm a passionate **full-stack web developer** with experience in React.js, Next.
 - 🔭 Currently working on **ft_transcendence**, a multiplayer ping-pong game.
 - 🎯 Seeking a **web development internship** in Morocco.
 - 🛠 Expanding my skills in **backend development** & system architecture.
-- 🎥 Creating content on **YouTube** about my tech journey.
 - 🌍 Based in **Morocco**.
 
 ## 💻 Tech Stack
@@ -40,7 +39,6 @@ I'm a passionate **full-stack web developer** with experience in React.js, Next.
 ## 📫 Contact Me
 - 📩 Email: [ahmedbouregba07@gmail.com](mailto:ahmedbouregba07@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/ahmed-bouregba](https://linkedin.com/in/ahmed-bouregba)
-- 🎥 YouTube: [Your Channel](https://youtube.com/yourchannel)
 
 ---
 💡 **Let's build something amazing together!** 🚀
