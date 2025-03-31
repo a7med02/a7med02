@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ahmed Bouregba!
+[![abouregb](https://badge.mediaplus.ma/darkblue/bourghiba)](https://github.com/oakoudad/badge42)
 
-![Profile Banner]([https://your-image-url.com/banner.png](https://github.com/oakoudad/badge42/blob/main/example/greenbinary.svg))  
 I'm a passionate **full-stack web developer** with experience in React.js, Next.js, Django, WebSockets, and scalable system architectures. Currently, I'm a student at **1337 School (UM6P)**, working on exciting projects involving real-time applications, authentication systems, and networking.
 
 ## 🚀 About Me
