@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Ahmed Bouregba!
-[![abouregb](https://badge.mediaplus.ma/darkblue/bourghiba)](https://github.com/oakoudad/badge42)
+[![abouregb's 42 stats](https://badge.mediaplus.ma/greenbinary/abouregb)](https://github.com/oakoudad/badge42)
 
 I'm a passionate **full-stack web developer** with experience in React.js, Next.js, Django, WebSockets, and scalable system architectures. Currently, I'm a student at **1337 School (UM6P)**, working on exciting projects involving real-time applications, authentication systems, and networking.
 
@@ -38,9 +38,8 @@ I'm a passionate **full-stack web developer** with experience in React.js, Next.
 - Featuring a blog section about **tech & programming**.
 
 ## 📫 Contact Me
-- 📩 Email: [your.email@example.com](mailto:your.email@example.com)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 📩 Email: [ahmedbouregba07@gmail.com](mailto:ahmedbouregba07@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/ahmed-bouregba](https://linkedin.com/in/ahmed-bouregba)
 - 🎥 YouTube: [Your Channel](https://youtube.com/yourchannel)
 
 ---
