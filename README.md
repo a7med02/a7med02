@@ -42,6 +42,10 @@ I'm a passionate **full-stack web developer** with experience in React.js, Next.
 - 📩 Email: [ahmedbouregba07@gmail.com](mailto:ahmedbouregba07@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/ahmed-bouregba](https://linkedin.com/in/ahmed-bouregba)
 
+
+[![abouregb's 42 projects](https://42term.vercel.app/api/widget/projects/abouregb?theme=dark)](https://42term.vercel.app)
+[![abouregb's 42 skills](https://42term.vercel.app/api/widget/skills/abouregb?theme=dark)](https://42term.vercel.app)
+
 ---
 💡 **Let's build something amazing together!** 🚀
 
