@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Ahmed Bouregba!
 [![abouregb's 42 stats](https://badge.mediaplus.ma/greenbinary/abouregb)](https://github.com/oakoudad/badge42)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a7med02&layout=compact&theme=radical)
 
 
 I'm a passionate **full-stack web developer** with experience in React.js, Next.js, Django, WebSockets, and scalable system architectures. Currently, I'm a student at **1337 School (UM6P)**, working on exciting projects involving real-time applications, authentication systems, and networking.
@@ -28,12 +27,12 @@ I'm a passionate **full-stack web developer** with experience in React.js, Next.
 - Linux, Shell Scripting
 
 ## 📌 Projects
-### **ft_transcendence** 🎮 *(Ongoing)*
+### **ft_transcendence** 🎮 **
 - Multiplayer ping-pong game with **React, Django, WebSockets**.
 - **Real-time gameplay** & **JWT authentication**.
 - Dockerized setup with Nginx & Redis.
 
-### **Personal Portfolio** 🌐 *(Coming Soon)*
+### **Personal Portfolio** 🌐 **
 - Built with **Next.js & TailwindCSS**.
 - Showcasing my projects & experience.
 - Featuring a blog section about **tech & programming**.
@@ -48,5 +47,3 @@ I'm a passionate **full-stack web developer** with experience in React.js, Next.
 
 ---
 💡 **Let's build something amazing together!** 🚀
-
-*(Star this profile if you like it! ⭐)*
