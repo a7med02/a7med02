@@ -34,7 +34,7 @@ Comfortable across the full stack: React, Next.js, Node.js, PostgreSQL. Self-dir
 ### Personal Portfolio
 *Next.js, TailwindCSS*
 - Modern portfolio website showcasing projects and technical experience
-- 🔗 **[Live Demo](https://medex-nine.vercel.app)**
+- 🔗 **[Live Demo](https://ahmed-bouregba.vercel.app)**
 
 ---
 
