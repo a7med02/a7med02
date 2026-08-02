@@ -15,7 +15,7 @@ Comfortable across the full stack: React, Next.js, Node.js, PostgreSQL. Self-dir
 
 📍 Based in Morocco | 📞 +212 780 868 206
 
-**[View Portfolio →](https://medex-nine.vercel.app)**
+**[View Portfolio →](https://ahmed-bouregba.vercel.app)**
 
 ---
 
@@ -67,7 +67,7 @@ Comfortable across the full stack: React, Next.js, Node.js, PostgreSQL. Self-dir
 - **Email:** [ahmedbouregba07@gmail.com](mailto:ahmedbouregba07@gmail.com)
 - **LinkedIn:** [linkedin.com/in/ahmed-bouregba](https://linkedin.com/in/ahmed-bouregba)
 - **GitHub:** [github.com/a7med02](https://github.com/a7med02)
-- **Portfolio:** [medex-nine.vercel.app](https://medex-nine.vercel.app)
+- **Portfolio:** [medex-nine.vercel.app](https://ahmed-bouregba.vercel.app)
 - **Phone:** +212 780 868 206
 
 ---
